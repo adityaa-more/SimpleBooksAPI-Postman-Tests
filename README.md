@@ -62,6 +62,7 @@ The project covers:
 ---
 
 ## 🧱 Collection Structure
+
 📁 Simple Books API 
 ┣ 📂 Health Check 
 ┃ ┗ GET /status 

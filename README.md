@@ -63,21 +63,21 @@ The project covers:
 
 ## 🧱 Collection Structure
 
-📁 Simple Books API 
-┣ 📂 Health Check 
-┃ ┗ GET /status 
-┣ 📂 Auth 
-┃ ┣ POST /api-clients (Register) 
-┃ ┗ POST /api-clients (Duplicate User Test) 
-┣ 📂 Books 
-┃ ┣ GET /books 
-┃ ┗ GET /books/:id 
-┗ 📂 Orders 
-┣ POST /orders 
-┣ GET /orders 
-┣ GET /orders/:id 
-┣ PATCH /orders/:id 
-┣ DELETE /orders/:id 
+📁 Simple Books API
+┣ 📂 Health Check
+┃ ┗ GET /status
+┣ 📂 Auth
+┃ ┣ POST /api-clients (Register)
+┃ ┗ POST /api-clients (Duplicate User Test)
+┣ 📂 Books
+┃ ┣ GET /books
+┃ ┗ GET /books/:id
+┗ 📂 Orders
+┣ POST /orders
+┣ GET /orders
+┣ GET /orders/:id
+┣ PATCH /orders/:id
+┣ DELETE /orders/:id
 ┗ GET /orders/:id (Deleted Order Test)
 ---
 

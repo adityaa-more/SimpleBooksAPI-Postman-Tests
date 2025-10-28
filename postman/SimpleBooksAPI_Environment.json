@@ -1,0 +1,45 @@
+{
+	"id": "b2f353d3-33c5-468a-a296-8834a53f2567",
+	"name": "Simple book env",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://simple-books-api.click",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "clientName",
+			"value": "Moriah23",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "clientEmail",
+			"value": "Moriah23@example.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "b4dbb88d9d7d2faf0be32650386b0623d6614cc90f7e60f35283a43e15b7ed82",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "bookId",
+			"value": "5",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "CpuqAb110Xx3DPT0FC0gl",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-10-28T15:39:14.546Z",
+	"_postman_exported_using": "Postman/11.69.1"
+}

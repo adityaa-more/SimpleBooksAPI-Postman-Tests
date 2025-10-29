@@ -99,8 +99,8 @@ newman run postman/SimpleBooksAPI_Collection.json \
 📊 Postman Monitor Overview
 Automated Postman Monitors are configured to run every 12 hours to validate uptime and performance.
 Below is a snapshot of the monitor performance over multiple runs:
-![Snapshot of Postman Monitor performance over multiple runs](screenshots/monitor-run-passed.png)
 
+<img src="screenshots/monitor-run-passed.png" alt="screenshot" width="200"/>
 
 🧠 Highlights & Key Learnings
 * Implemented dynamic variable chaining using Postman scripts

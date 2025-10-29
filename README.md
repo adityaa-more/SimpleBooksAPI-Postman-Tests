@@ -99,7 +99,7 @@ newman run postman/SimpleBooksAPI_Collection.json \
 📊 Postman Monitor Overview
 Automated Postman Monitors are configured to run every 12 hours to validate uptime and performance.
 Below is a snapshot of the monitor performance over multiple runs:
-![Snapshot of Postman Monitor performance over multiple runs](screenshots/monitor_run_passed.png)
+![Snapshot of Postman Monitor performance over multiple runs](screenshots/monitor-run-passed.png)
 
 
 🧠 Highlights & Key Learnings
@@ -124,6 +124,6 @@ Below is a snapshot of the monitor performance over multiple runs:
 
 
 ## 👤 Author
-**Aditya More**
-💻 Full-Stack & QA Automation Enthusiast
+**Aditya More**                                                                                                                                                    
+💻 Full-Stack & QA Automation Enthusiast                                                                                                                           
 📧 adityamore.se@example.com

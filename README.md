@@ -1,6 +1,6 @@
 # 📘 Simple Books API – Postman Automation Project
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Logo" height="20"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Logo" height="40"/>
 
 A complete **API Testing Project** built in **Postman** for the [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md). 
 This project demonstrates **real-world API testing** including CRUD operations, authentication, negative testing, automation using **Newman**, and scheduled execution using **Postman Monitors**.

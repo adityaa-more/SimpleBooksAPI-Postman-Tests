@@ -1,6 +1,6 @@
 # 📘 Simple Books API – Postman Automation Project
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-003D5C?style=flat&logo=newman&logoColor=white) ![API Testing](https://img.shields.io/badge/API_Testing-27ae60?style=flat&logo=jest&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-2C3E50?style=flat&logo=codacy&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-003D5C?style=flat&logo=newman&logoColor=white) ![API Testing](https://img.shields.io/badge/API_Testing-27ae60?style=flat&logo=jest&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-2C3E50?style=flat&logo=codacy&logoColor=white) 
 
 A complete **API Testing Project** built in **Postman** for the [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md). 
 This project demonstrates **real-world API testing** including CRUD operations, authentication, negative testing, automation using **Newman**, and scheduled execution using **Postman Monitors**.
